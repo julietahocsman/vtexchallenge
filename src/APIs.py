@@ -15,9 +15,9 @@ def metric_value(url, metric):
 
 def upload_json_to_bigquery(json_to_upload):
 
-    project_id = <project_id>
-    dataset_id = <dataset_id>
-    table_id = <table_id>
+    project_id = '<project_id>'
+    dataset_id = '<dataset_id>'
+    table_id = '<table_id>
 
     client = bigquery.Client(project = project_id)
     dataset = client.dataset(dataset_id)
