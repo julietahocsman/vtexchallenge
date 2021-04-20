@@ -4,7 +4,7 @@
 
 Understanding the data and presenting conclusions, warnings, and visualization.
 
-Jupyter notbook with data, analysis, and documents in which was based the case.
+Jupyter notbook with data, analysis, and documents in which the case was based on.
 Presentation of the analysis and visualizations. 
 
 ## res folder: 2nd challenge.
