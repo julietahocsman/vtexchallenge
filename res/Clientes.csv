@@ -1,0 +1,1646 @@
+﻿Cliente;Nombre;Sexo;Zona
+9001;Ana_1;F;Buenos Aires
+9002;Juan_1;M;Capital Federal
+9003;Pedro_1;M;Capital Federal
+9004;Romina_1;F;Buenos Aires
+9005;Ana_2;F;Buenos Aires
+9006;Juan_2;M;Capital Federal
+9007;Pedro_2;M;Capital Federal
+9008;Romina_2;F;Buenos Aires
+9009;Ana_3;F;Capital Federal
+9010;Juan_3;M;Capital Federal
+9011;Pedro_3;M;Cordoba
+9012;Romina_3;F;Capital Federal
+9013;Ana_4;F;Cordoba
+9014;Juan_4;M;Capital Federal
+9015;Pedro_4;M;Capital Federal
+9016;Romina_4;F;Santa Fe
+9017;Ana_5;F;Buenos Aires
+9018;Juan_5;M;Capital Federal
+9019;Pedro_5;M;Cordoba
+9020;Romina_5;F;Santa Fe
+9021;Ana_6;F;Capital Federal
+9022;Juan_6;M;Capital Federal
+9023;Pedro_6;M;Santa Fe
+9024;Romina_6;F;Capital Federal
+9025;Ana_7;F;Capital Federal
+9026;Juan_7;M;Buenos Aires
+9027;Pedro_7;M;Buenos Aires
+9028;Romina_7;F;Capital Federal
+9029;Ana_8;F;Buenos Aires
+9030;Juan_8;M;Capital Federal
+9031;Pedro_8;M;Buenos Aires
+9032;Romina_8;F;Cordoba
+9033;Ana_9;F;Capital Federal
+9034;Juan_9;M;Santa Fe
+9035;Pedro_9;M;Capital Federal
+9036;Romina_9;F;Capital Federal
+9037;Ana_10;F;Capital Federal
+9038;Juan_10;M;Buenos Aires
+9039;Pedro_10;M;Capital Federal
+9040;Romina_10;F;Capital Federal
+9041;Ana_11;F;Buenos Aires
+9042;Juan_11;M;Buenos Aires
+9043;Pedro_11;M;Capital Federal
+9044;Romina_11;F;Buenos Aires
+9045;Ana_12;F;Capital Federal
+9046;Juan_12;M;Buenos Aires
+9047;Pedro_12;M;Capital Federal
+9048;Romina_12;F;Capital Federal
+9049;Ana_13;F;Buenos Aires
+9050;Juan_13;M;Capital Federal
+9051;Pedro_13;M;Cordoba
+9052;Romina_13;F;Buenos Aires
+9053;Ana_14;F;Capital Federal
+9054;Juan_14;M;Capital Federal
+9055;Pedro_14;M;Capital Federal
+9056;Romina_14;F;Capital Federal
+9057;Ana_15;F;Capital Federal
+9058;Juan_15;M;Santa Fe
+9059;Pedro_15;M;Capital Federal
+9060;Romina_15;F;Buenos Aires
+9061;Ana_16;F;Capital Federal
+9062;Juan_16;M;Capital Federal
+9063;Pedro_16;M;Capital Federal
+9064;Romina_16;F;Capital Federal
+9065;Ana_17;F;Cordoba
+9066;Juan_17;M;Capital Federal
+9067;Pedro_17;M;Cordoba
+9068;Romina_17;F;Cordoba
+9069;Ana_18;F;Cordoba
+9070;Juan_18;M;Capital Federal
+9071;Pedro_18;M;Cordoba
+9072;Romina_18;F;Capital Federal
+9073;Ana_19;F;Buenos Aires
+9074;Juan_19;M;Capital Federal
+9075;Pedro_19;M;Buenos Aires
+9076;Romina_19;F;Capital Federal
+9077;Ana_20;F;Capital Federal
+9078;Juan_20;M;Capital Federal
+9079;Pedro_20;M;Capital Federal
+9080;Romina_20;F;Capital Federal
+9081;Ana_21;F;Capital Federal
+9082;Juan_21;M;Capital Federal
+9083;Pedro_21;M;Capital Federal
+9084;Romina_21;F;Buenos Aires
+9085;Ana_22;F;Capital Federal
+9086;Juan_22;M;Buenos Aires
+9087;Pedro_22;M;Capital Federal
+9088;Romina_22;F;Capital Federal
+9089;Ana_23;F;Capital Federal
+9090;Juan_23;M;Capital Federal
+9091;Pedro_23;M;Capital Federal
+9092;Romina_23;F;Buenos Aires
+9093;Ana_24;F;Capital Federal
+9094;Juan_24;M;Capital Federal
+9095;Pedro_24;M;Capital Federal
+9096;Romina_24;F;Capital Federal
+9097;Ana_25;F;Capital Federal
+9098;Juan_25;M;Capital Federal
+9099;Pedro_25;M;Capital Federal
+9100;Romina_25;F;Capital Federal
+9101;Ana_26;F;Capital Federal
+9102;Juan_26;M;Santa Fe
+9103;Pedro_26;M;Capital Federal
+9104;Romina_26;F;Cordoba
+9105;Ana_27;F;Cordoba
+9106;Juan_27;M;Santa Fe
+9107;Pedro_27;M;Capital Federal
+9108;Romina_27;F;Cordoba
+9109;Ana_28;F;Capital Federal
+9110;Juan_28;M;Capital Federal
+9111;Pedro_28;M;Capital Federal
+9112;Romina_28;F;Buenos Aires
+9113;Ana_29;F;Capital Federal
+9114;Juan_29;M;Buenos Aires
+9115;Pedro_29;M;Capital Federal
+9116;Romina_29;F;Capital Federal
+9117;Ana_30;F;Cordoba
+9118;Juan_30;M;Capital Federal
+9119;Pedro_30;M;Capital Federal
+9120;Romina_30;F;Buenos Aires
+9121;Ana_31;F;Buenos Aires
+9122;Juan_31;M;Buenos Aires
+9123;Pedro_31;M;Buenos Aires
+9124;Romina_31;F;Capital Federal
+9125;Ana_32;F;Capital Federal
+9126;Juan_32;M;Capital Federal
+9127;Pedro_32;M;Capital Federal
+9128;Romina_32;F;Capital Federal
+9129;Ana_33;F;Buenos Aires
+9130;Juan_33;M;Buenos Aires
+9131;Pedro_33;M;Capital Federal
+9132;Romina_33;F;Capital Federal
+9133;Ana_34;F;Capital Federal
+9134;Juan_34;M;Capital Federal
+9135;Pedro_34;M;Buenos Aires
+9136;Romina_34;F;Capital Federal
+9137;Ana_35;F;Buenos Aires
+9138;Juan_35;M;Buenos Aires
+9139;Pedro_35;M;Buenos Aires
+9140;Romina_35;F;Buenos Aires
+9141;Ana_36;F;Cordoba
+9142;Juan_36;M;Capital Federal
+9143;Pedro_36;M;Capital Federal
+9144;Romina_36;F;Capital Federal
+9145;Ana_37;F;Buenos Aires
+9146;Juan_37;M;Capital Federal
+9147;Pedro_37;M;Cordoba
+9148;Romina_37;F;Santa Fe
+9149;Ana_38;F;Cordoba
+9150;Juan_38;M;Capital Federal
+9151;Pedro_38;M;Cordoba
+9152;Romina_38;F;Buenos Aires
+9153;Ana_39;F;Capital Federal
+9154;Juan_39;M;Capital Federal
+9155;Pedro_39;M;Capital Federal
+9156;Romina_39;F;Capital Federal
+9157;Ana_40;F;Santa Fe
+9158;Juan_40;M;Capital Federal
+9159;Pedro_40;M;Cordoba
+9160;Romina_40;F;Cordoba
+9161;Ana_41;F;Capital Federal
+9162;Juan_41;M;Capital Federal
+9163;Pedro_41;M;Santa Fe
+9164;Romina_41;F;Capital Federal
+9165;Ana_42;F;Buenos Aires
+9166;Juan_42;M;Capital Federal
+9167;Pedro_42;M;Buenos Aires
+9168;Romina_42;F;Capital Federal
+9169;Ana_43;F;Capital Federal
+9170;Juan_43;M;Buenos Aires
+9171;Pedro_43;M;Santa Fe
+9172;Romina_43;F;Capital Federal
+9173;Ana_44;F;Capital Federal
+9174;Juan_44;M;Capital Federal
+9175;Pedro_44;M;Capital Federal
+9176;Romina_44;F;Cordoba
+9177;Ana_45;F;Santa Fe
+9178;Juan_45;M;Capital Federal
+9179;Pedro_45;M;Capital Federal
+9180;Romina_45;F;Capital Federal
+9181;Ana_46;F;Buenos Aires
+9182;Juan_46;M;Capital Federal
+9183;Pedro_46;M;Santa Fe
+9184;Romina_46;F;Capital Federal
+9185;Ana_47;F;Buenos Aires
+9186;Juan_47;M;Capital Federal
+9187;Pedro_47;M;Capital Federal
+9188;Romina_47;F;Capital Federal
+9189;Ana_48;F;Capital Federal
+9190;Juan_48;M;Capital Federal
+9191;Pedro_48;M;Capital Federal
+9192;Romina_48;F;Buenos Aires
+9193;Ana_49;F;Buenos Aires
+9194;Juan_49;M;Buenos Aires
+9195;Pedro_49;M;Capital Federal
+9196;Romina_49;F;Capital Federal
+9197;Ana_50;F;Buenos Aires
+9198;Juan_50;M;Buenos Aires
+9199;Pedro_50;M;Buenos Aires
+9200;Romina_50;F;Capital Federal
+9201;Ana_51;F;Capital Federal
+9202;Juan_51;M;Capital Federal
+9203;Pedro_51;M;Capital Federal
+9204;Romina_51;F;Buenos Aires
+9205;Ana_52;F;Capital Federal
+9206;Juan_52;M;Buenos Aires
+9207;Pedro_52;M;Capital Federal
+9208;Romina_52;F;Buenos Aires
+9209;Ana_53;F;Buenos Aires
+9210;Juan_53;M;Buenos Aires
+9211;Pedro_53;M;Capital Federal
+9212;Romina_53;F;Capital Federal
+9213;Ana_54;F;Capital Federal
+9214;Juan_54;M;Cordoba
+9215;Pedro_54;M;Buenos Aires
+9216;Romina_54;F;Capital Federal
+9217;Ana_55;F;Buenos Aires
+9218;Juan_55;M;Capital Federal
+9219;Pedro_55;M;Capital Federal
+9220;Romina_55;F;Capital Federal
+9221;Ana_56;F;Capital Federal
+9222;Juan_56;M;Capital Federal
+9223;Pedro_56;M;Capital Federal
+9224;Romina_56;F;Buenos Aires
+9225;Ana_57;F;Buenos Aires
+9226;Juan_57;M;Capital Federal
+9227;Pedro_57;M;Capital Federal
+9228;Romina_57;F;Capital Federal
+9229;Ana_58;F;Capital Federal
+9230;Juan_58;M;Capital Federal
+9231;Pedro_58;M;Capital Federal
+9232;Romina_58;F;Cordoba
+9233;Ana_59;F;Buenos Aires
+9234;Juan_59;M;Capital Federal
+9235;Pedro_59;M;Capital Federal
+9236;Romina_59;F;Buenos Aires
+9237;Ana_60;F;Capital Federal
+9238;Juan_60;M;Santa Fe
+9239;Pedro_60;M;Buenos Aires
+9240;Romina_60;F;Buenos Aires
+9241;Ana_61;F;Capital Federal
+9242;Juan_61;M;Capital Federal
+9243;Pedro_61;M;Capital Federal
+9244;Romina_61;F;Buenos Aires
+9245;Ana_62;F;Capital Federal
+9246;Juan_62;M;Cordoba
+9247;Pedro_62;M;Buenos Aires
+9248;Romina_62;F;Capital Federal
+9249;Ana_63;F;Cordoba
+9250;Juan_63;M;Buenos Aires
+9251;Pedro_63;M;Capital Federal
+9252;Romina_63;F;Capital Federal
+9253;Ana_64;F;Buenos Aires
+9254;Juan_64;M;Capital Federal
+9255;Pedro_64;M;Cordoba
+9256;Romina_64;F;Capital Federal
+9257;Ana_65;F;Cordoba
+9258;Juan_65;M;Capital Federal
+9259;Pedro_65;M;Capital Federal
+9260;Romina_65;F;Capital Federal
+9261;Ana_66;F;Capital Federal
+9262;Juan_66;M;Buenos Aires
+9263;Pedro_66;M;Capital Federal
+9264;Romina_66;F;Buenos Aires
+9265;Ana_67;F;Cordoba
+9266;Juan_67;M;Cordoba
+9267;Pedro_67;M;Capital Federal
+9268;Romina_67;F;Capital Federal
+9269;Ana_68;F;Buenos Aires
+9270;Juan_68;M;Capital Federal
+9271;Pedro_68;M;Capital Federal
+9272;Romina_68;F;Buenos Aires
+9273;Ana_69;F;Capital Federal
+9274;Juan_69;M;Santa Fe
+9275;Pedro_69;M;Cordoba
+9276;Romina_69;F;Cordoba
+9277;Ana_70;F;Buenos Aires
+9278;Juan_70;M;Buenos Aires
+9279;Pedro_70;M;Cordoba
+9280;Romina_70;F;Cordoba
+9281;Ana_71;F;Capital Federal
+9282;Juan_71;M;Capital Federal
+9283;Pedro_71;M;Buenos Aires
+9284;Romina_71;F;Capital Federal
+9285;Ana_72;F;Capital Federal
+9286;Juan_72;M;Buenos Aires
+9287;Pedro_72;M;Capital Federal
+9288;Romina_72;F;Buenos Aires
+9289;Ana_73;F;Cordoba
+9290;Juan_73;M;Capital Federal
+9291;Pedro_73;M;Capital Federal
+9292;Romina_73;F;Cordoba
+9293;Ana_74;F;Capital Federal
+9294;Juan_74;M;Buenos Aires
+9295;Pedro_74;M;Buenos Aires
+9296;Romina_74;F;Buenos Aires
+9297;Ana_75;F;Capital Federal
+9298;Juan_75;M;Buenos Aires
+9299;Pedro_75;M;Capital Federal
+9300;Romina_75;F;Capital Federal
+9301;Ana_76;F;Buenos Aires
+9302;Juan_76;M;Capital Federal
+9303;Pedro_76;M;Buenos Aires
+9304;Romina_76;F;Capital Federal
+9305;Ana_77;F;Capital Federal
+9306;Juan_77;M;Capital Federal
+9307;Pedro_77;M;Capital Federal
+9308;Romina_77;F;Capital Federal
+9309;Ana_78;F;Capital Federal
+9310;Juan_78;M;Buenos Aires
+9311;Pedro_78;M;Cordoba
+9312;Romina_78;F;Cordoba
+9313;Ana_79;F;Cordoba
+9314;Juan_79;M;Buenos Aires
+9315;Pedro_79;M;Capital Federal
+9316;Romina_79;F;Capital Federal
+9317;Ana_80;F;Capital Federal
+9318;Juan_80;M;Capital Federal
+9319;Pedro_80;M;Capital Federal
+9320;Romina_80;F;Capital Federal
+9321;Ana_81;F;Capital Federal
+9322;Juan_81;M;Capital Federal
+9323;Pedro_81;M;Capital Federal
+9324;Romina_81;F;Capital Federal
+9325;Ana_82;F;Cordoba
+9326;Juan_82;M;Capital Federal
+9327;Pedro_82;M;Buenos Aires
+9328;Romina_82;F;Buenos Aires
+9329;Ana_83;F;Santa Fe
+9330;Juan_83;M;Capital Federal
+9331;Pedro_83;M;Capital Federal
+9332;Romina_83;F;Buenos Aires
+9333;Ana_84;F;Santa Fe
+9334;Juan_84;M;Capital Federal
+9335;Pedro_84;M;Cordoba
+9336;Romina_84;F;Capital Federal
+9337;Ana_85;F;Buenos Aires
+9338;Juan_85;M;Buenos Aires
+9339;Pedro_85;M;Santa Fe
+9340;Romina_85;F;Capital Federal
+9341;Ana_86;F;Capital Federal
+9342;Juan_86;M;Buenos Aires
+9343;Pedro_86;M;Buenos Aires
+9344;Romina_86;F;Buenos Aires
+9345;Ana_87;F;Buenos Aires
+9346;Juan_87;M;Buenos Aires
+9347;Pedro_87;M;Capital Federal
+9348;Romina_87;F;Capital Federal
+9349;Ana_88;F;Capital Federal
+9350;Juan_88;M;Cordoba
+9351;Pedro_88;M;Cordoba
+9352;Romina_88;F;Capital Federal
+9353;Ana_89;F;Capital Federal
+9354;Juan_89;M;Buenos Aires
+9355;Pedro_89;M;Buenos Aires
+9356;Romina_89;F;Capital Federal
+9357;Ana_90;F;Cordoba
+9358;Juan_90;M;Capital Federal
+9359;Pedro_90;M;Capital Federal
+9360;Romina_90;F;Buenos Aires
+9361;Ana_91;F;Cordoba
+9362;Juan_91;M;Buenos Aires
+9363;Pedro_91;M;Cordoba
+9364;Romina_91;F;Capital Federal
+9365;Ana_92;F;Capital Federal
+9366;Juan_92;M;Buenos Aires
+9367;Pedro_92;M;Capital Federal
+9368;Romina_92;F;Capital Federal
+9369;Ana_93;F;Buenos Aires
+9370;Juan_93;M;Buenos Aires
+9371;Pedro_93;M;Capital Federal
+9372;Romina_93;F;Capital Federal
+9373;Ana_94;F;Capital Federal
+9374;Juan_94;M;Capital Federal
+9375;Pedro_94;M;Capital Federal
+9376;Romina_94;F;Buenos Aires
+9377;Ana_95;F;Cordoba
+9378;Juan_95;M;Capital Federal
+9379;Pedro_95;M;Santa Fe
+9380;Romina_95;F;Buenos Aires
+9381;Ana_96;F;Capital Federal
+9382;Juan_96;M;Capital Federal
+9383;Pedro_96;M;Buenos Aires
+9384;Romina_96;F;Capital Federal
+9385;Ana_97;F;Capital Federal
+9386;Juan_97;M;Cordoba
+9387;Pedro_97;M;Capital Federal
+9388;Romina_97;F;Buenos Aires
+9389;Ana_98;F;Capital Federal
+9390;Juan_98;M;Capital Federal
+9391;Pedro_98;M;Buenos Aires
+9392;Romina_98;F;Capital Federal
+9393;Ana_99;F;Santa Fe
+9394;Juan_99;M;Capital Federal
+9395;Pedro_99;M;Cordoba
+9396;Romina_99;F;Buenos Aires
+9397;Ana_100;F;Capital Federal
+9398;Juan_100;M;Capital Federal
+9399;Pedro_100;M;Cordoba
+9400;Romina_100;F;Buenos Aires
+9401;Ana_101;F;Buenos Aires
+9402;Juan_101;M;Capital Federal
+9403;Pedro_101;M;Buenos Aires
+9404;Romina_101;F;Capital Federal
+9405;Ana_102;F;Capital Federal
+9406;Juan_102;M;Capital Federal
+9407;Pedro_102;M;Capital Federal
+9408;Romina_102;F;Cordoba
+9409;Ana_103;F;Buenos Aires
+9410;Juan_103;M;Capital Federal
+9411;Pedro_103;M;Capital Federal
+9412;Romina_103;F;Capital Federal
+9413;Ana_104;F;Buenos Aires
+9414;Juan_104;M;Capital Federal
+9415;Pedro_104;M;Buenos Aires
+9416;Romina_104;F;Buenos Aires
+9417;Ana_105;F;Capital Federal
+9418;Juan_105;M;Capital Federal
+9419;Pedro_105;M;Cordoba
+9420;Romina_105;F;Capital Federal
+9421;Ana_106;F;Capital Federal
+9422;Juan_106;M;Capital Federal
+9423;Pedro_106;M;Capital Federal
+9424;Romina_106;F;Cordoba
+9425;Ana_107;F;Capital Federal
+9426;Juan_107;M;Capital Federal
+9427;Pedro_107;M;Buenos Aires
+9428;Romina_107;F;Capital Federal
+9429;Ana_108;F;Capital Federal
+9430;Juan_108;M;Santa Fe
+9431;Pedro_108;M;Cordoba
+9432;Romina_108;F;Cordoba
+9433;Ana_109;F;Buenos Aires
+9434;Juan_109;M;Capital Federal
+9435;Pedro_109;M;Cordoba
+9436;Romina_109;F;Capital Federal
+9437;Ana_110;F;Capital Federal
+9438;Juan_110;M;Capital Federal
+9439;Pedro_110;M;Buenos Aires
+9440;Romina_110;F;Capital Federal
+9441;Ana_111;F;Buenos Aires
+9442;Juan_111;M;Capital Federal
+9443;Pedro_111;M;Cordoba
+9444;Romina_111;F;Capital Federal
+9445;Ana_112;F;Capital Federal
+9446;Juan_112;M;Capital Federal
+9447;Pedro_112;M;Capital Federal
+9448;Romina_112;F;Buenos Aires
+9449;Ana_113;F;Capital Federal
+9450;Juan_113;M;Cordoba
+9451;Pedro_113;M;Capital Federal
+9452;Romina_113;F;Capital Federal
+9453;Ana_114;F;Capital Federal
+9454;Juan_114;M;Capital Federal
+9455;Pedro_114;M;Capital Federal
+9456;Romina_114;F;Capital Federal
+9457;Ana_115;F;Capital Federal
+9458;Juan_115;M;Capital Federal
+9459;Pedro_115;M;Capital Federal
+9460;Romina_115;F;Buenos Aires
+9461;Ana_116;F;Capital Federal
+9462;Juan_116;M;Capital Federal
+9463;Pedro_116;M;Capital Federal
+9464;Romina_116;F;Buenos Aires
+9465;Ana_117;F;Capital Federal
+9466;Juan_117;M;Capital Federal
+9467;Pedro_117;M;Capital Federal
+9468;Romina_117;F;Capital Federal
+9469;Ana_118;F;Cordoba
+9470;Juan_118;M;Capital Federal
+9471;Pedro_118;M;Capital Federal
+9472;Romina_118;F;Capital Federal
+9473;Ana_119;F;Buenos Aires
+9474;Juan_119;M;Capital Federal
+9475;Pedro_119;M;Capital Federal
+9476;Romina_119;F;Capital Federal
+9477;Ana_120;F;Buenos Aires
+9478;Juan_120;M;Capital Federal
+9479;Pedro_120;M;Capital Federal
+9480;Romina_120;F;Buenos Aires
+9481;Ana_121;F;Capital Federal
+9482;Juan_121;M;Cordoba
+9483;Pedro_121;M;Buenos Aires
+9484;Romina_121;F;Capital Federal
+9485;Ana_122;F;Capital Federal
+9486;Juan_122;M;Capital Federal
+9487;Pedro_122;M;Capital Federal
+9488;Romina_122;F;Buenos Aires
+9489;Ana_123;F;Santa Fe
+9490;Juan_123;M;Cordoba
+9491;Pedro_123;M;Capital Federal
+9492;Romina_123;F;Capital Federal
+9493;Ana_124;F;Buenos Aires
+9494;Juan_124;M;Capital Federal
+9495;Pedro_124;M;Capital Federal
+9496;Romina_124;F;Cordoba
+9497;Ana_125;F;Buenos Aires
+9498;Juan_125;M;Capital Federal
+9499;Pedro_125;M;Capital Federal
+9500;Romina_125;F;Cordoba
+9501;Ana_126;F;Buenos Aires
+9502;Juan_126;M;Capital Federal
+9503;Pedro_126;M;Capital Federal
+9504;Romina_126;F;Capital Federal
+9505;Ana_127;F;Buenos Aires
+9506;Juan_127;M;Capital Federal
+9507;Pedro_127;M;Buenos Aires
+9508;Romina_127;F;Capital Federal
+9509;Ana_128;F;Buenos Aires
+9510;Juan_128;M;Capital Federal
+9511;Pedro_128;M;Capital Federal
+9512;Romina_128;F;Buenos Aires
+9513;Ana_129;F;Buenos Aires
+9514;Juan_129;M;Capital Federal
+9515;Pedro_129;M;Capital Federal
+9516;Romina_129;F;Capital Federal
+9517;Ana_130;F;Capital Federal
+9518;Juan_130;M;Capital Federal
+9519;Pedro_130;M;Capital Federal
+9520;Romina_130;F;Capital Federal
+9521;Ana_131;F;Capital Federal
+9522;Juan_131;M;Capital Federal
+9523;Pedro_131;M;Capital Federal
+9524;Romina_131;F;Cordoba
+9525;Ana_132;F;Capital Federal
+9526;Juan_132;M;Capital Federal
+9527;Pedro_132;M;Cordoba
+9528;Romina_132;F;Capital Federal
+9529;Ana_133;F;Capital Federal
+9530;Juan_133;M;Cordoba
+9531;Pedro_133;M;Capital Federal
+9532;Romina_133;F;Buenos Aires
+9533;Ana_134;F;Capital Federal
+9534;Juan_134;M;Capital Federal
+9535;Pedro_134;M;Buenos Aires
+9536;Romina_134;F;Capital Federal
+9537;Ana_135;F;Buenos Aires
+9538;Juan_135;M;Cordoba
+9539;Pedro_135;M;Capital Federal
+9540;Romina_135;F;Santa Fe
+9541;Ana_136;F;Capital Federal
+9542;Juan_136;M;Capital Federal
+9543;Pedro_136;M;Capital Federal
+9544;Romina_136;F;Capital Federal
+9545;Ana_137;F;Buenos Aires
+9546;Juan_137;M;Capital Federal
+9547;Pedro_137;M;Cordoba
+9548;Romina_137;F;Buenos Aires
+9549;Ana_138;F;Capital Federal
+9550;Juan_138;M;Buenos Aires
+9551;Pedro_138;M;Cordoba
+9552;Romina_138;F;Capital Federal
+9553;Ana_139;F;Buenos Aires
+9554;Juan_139;M;Buenos Aires
+9555;Pedro_139;M;Capital Federal
+9556;Romina_139;F;Santa Fe
+9557;Ana_140;F;Buenos Aires
+9558;Juan_140;M;Capital Federal
+9559;Pedro_140;M;Capital Federal
+9560;Romina_140;F;Capital Federal
+9561;Ana_141;F;Capital Federal
+9562;Juan_141;M;Buenos Aires
+9563;Pedro_141;M;Capital Federal
+9564;Romina_141;F;Capital Federal
+9565;Ana_142;F;Capital Federal
+9566;Juan_142;M;Capital Federal
+9567;Pedro_142;M;Capital Federal
+9568;Romina_142;F;Capital Federal
+9569;Ana_143;F;Buenos Aires
+9570;Juan_143;M;Buenos Aires
+9571;Pedro_143;M;Capital Federal
+9572;Romina_143;F;Buenos Aires
+9573;Ana_144;F;Capital Federal
+9574;Juan_144;M;Capital Federal
+9575;Pedro_144;M;Capital Federal
+9576;Romina_144;F;Capital Federal
+9577;Ana_145;F;Capital Federal
+9578;Juan_145;M;Capital Federal
+9579;Pedro_145;M;Cordoba
+9580;Romina_145;F;Capital Federal
+9581;Ana_146;F;Santa Fe
+9582;Juan_146;M;Buenos Aires
+9583;Pedro_146;M;Cordoba
+9584;Romina_146;F;Capital Federal
+9585;Ana_147;F;Capital Federal
+9586;Juan_147;M;Capital Federal
+9587;Pedro_147;M;Buenos Aires
+9588;Romina_147;F;Buenos Aires
+9589;Ana_148;F;Santa Fe
+9590;Juan_148;M;Capital Federal
+9591;Pedro_148;M;Buenos Aires
+9592;Romina_148;F;Buenos Aires
+9593;Ana_149;F;Buenos Aires
+9594;Juan_149;M;Cordoba
+9595;Pedro_149;M;Capital Federal
+9596;Romina_149;F;Buenos Aires
+9597;Ana_150;F;Capital Federal
+9598;Juan_150;M;Cordoba
+9599;Pedro_150;M;Cordoba
+9600;Romina_150;F;Cordoba
+9601;Ana_151;F;Capital Federal
+9602;Juan_151;M;Buenos Aires
+9603;Pedro_151;M;Buenos Aires
+9604;Romina_151;F;Capital Federal
+9605;Ana_152;F;Buenos Aires
+9606;Juan_152;M;Capital Federal
+9607;Pedro_152;M;Capital Federal
+9608;Romina_152;F;Buenos Aires
+9609;Ana_153;F;Cordoba
+9610;Juan_153;M;Capital Federal
+9611;Pedro_153;M;Capital Federal
+9612;Romina_153;F;Buenos Aires
+9613;Ana_154;F;Capital Federal
+9614;Juan_154;M;Capital Federal
+9615;Pedro_154;M;Buenos Aires
+9616;Romina_154;F;Cordoba
+9617;Ana_155;F;Buenos Aires
+9618;Juan_155;M;Cordoba
+9619;Pedro_155;M;Buenos Aires
+9620;Romina_155;F;Santa Fe
+9621;Ana_156;F;Capital Federal
+9622;Juan_156;M;Buenos Aires
+9623;Pedro_156;M;Capital Federal
+9624;Romina_156;F;Capital Federal
+9625;Ana_157;F;Santa Fe
+9626;Juan_157;M;Capital Federal
+9627;Pedro_157;M;Capital Federal
+9628;Romina_157;F;Capital Federal
+9629;Ana_158;F;Capital Federal
+9630;Juan_158;M;Capital Federal
+9631;Pedro_158;M;Capital Federal
+9632;Romina_158;F;Capital Federal
+9633;Ana_159;F;Santa Fe
+9634;Juan_159;M;Santa Fe
+9635;Pedro_159;M;Capital Federal
+9636;Romina_159;F;Cordoba
+9637;Ana_160;F;Capital Federal
+9638;Juan_160;M;Capital Federal
+9639;Pedro_160;M;Buenos Aires
+9640;Romina_160;F;Santa Fe
+9641;Ana_161;F;Santa Fe
+9642;Juan_161;M;Capital Federal
+9643;Pedro_161;M;Capital Federal
+9644;Romina_161;F;Capital Federal
+9645;Ana_162;F;Santa Fe
+9646;Juan_162;M;Santa Fe
+9647;Pedro_162;M;Buenos Aires
+9648;Romina_162;F;Capital Federal
+9649;Ana_163;F;Capital Federal
+9650;Juan_163;M;Buenos Aires
+9651;Pedro_163;M;Cordoba
+9652;Romina_163;F;Capital Federal
+9653;Ana_164;F;Buenos Aires
+9654;Juan_164;M;Capital Federal
+9655;Pedro_164;M;Cordoba
+9656;Romina_164;F;Capital Federal
+9657;Ana_165;F;Capital Federal
+9658;Juan_165;M;Cordoba
+9659;Pedro_165;M;Capital Federal
+9660;Romina_165;F;Capital Federal
+9661;Ana_166;F;Capital Federal
+9662;Juan_166;M;Capital Federal
+9663;Pedro_166;M;Buenos Aires
+9664;Romina_166;F;Capital Federal
+9665;Ana_167;F;Capital Federal
+9666;Juan_167;M;Santa Fe
+9667;Pedro_167;M;Capital Federal
+9668;Romina_167;F;Buenos Aires
+9669;Ana_168;F;Buenos Aires
+9670;Juan_168;M;Buenos Aires
+9671;Pedro_168;M;Capital Federal
+9672;Romina_168;F;Buenos Aires
+9673;Ana_169;F;Santa Fe
+9674;Juan_169;M;Buenos Aires
+9675;Pedro_169;M;Capital Federal
+9676;Romina_169;F;Capital Federal
+9677;Ana_170;F;Capital Federal
+9678;Juan_170;M;Capital Federal
+9679;Pedro_170;M;Capital Federal
+9680;Romina_170;F;Capital Federal
+9681;Ana_171;F;Cordoba
+9682;Juan_171;M;Cordoba
+9683;Pedro_171;M;Buenos Aires
+9684;Romina_171;F;Capital Federal
+9685;Ana_172;F;Capital Federal
+9686;Juan_172;M;Capital Federal
+9687;Pedro_172;M;Buenos Aires
+9688;Romina_172;F;Cordoba
+9689;Ana_173;F;Buenos Aires
+9690;Juan_173;M;Capital Federal
+9691;Pedro_173;M;Capital Federal
+9692;Romina_173;F;Capital Federal
+9693;Ana_174;F;Buenos Aires
+9694;Juan_174;M;Capital Federal
+9695;Pedro_174;M;Buenos Aires
+9696;Romina_174;F;Capital Federal
+9697;Ana_175;F;Cordoba
+9698;Juan_175;M;Buenos Aires
+9699;Pedro_175;M;Capital Federal
+9700;Romina_175;F;Capital Federal
+9701;Ana_176;F;Santa Fe
+9702;Juan_176;M;Santa Fe
+9703;Pedro_176;M;Capital Federal
+9704;Romina_176;F;Cordoba
+9705;Ana_177;F;Capital Federal
+9706;Juan_177;M;Buenos Aires
+9707;Pedro_177;M;Capital Federal
+9708;Romina_177;F;Buenos Aires
+9709;Ana_178;F;Capital Federal
+9710;Juan_178;M;Capital Federal
+9711;Pedro_178;M;Capital Federal
+9712;Romina_178;F;Buenos Aires
+9713;Ana_179;F;Capital Federal
+9714;Juan_179;M;Capital Federal
+9715;Pedro_179;M;Capital Federal
+9716;Romina_179;F;Capital Federal
+9717;Ana_180;F;Capital Federal
+9718;Juan_180;M;Buenos Aires
+9719;Pedro_180;M;Capital Federal
+9720;Romina_180;F;Capital Federal
+9721;Ana_181;F;Capital Federal
+9722;Juan_181;M;Capital Federal
+9723;Pedro_181;M;Cordoba
+9724;Romina_181;F;Capital Federal
+9725;Ana_182;F;Buenos Aires
+9726;Juan_182;M;Capital Federal
+9727;Pedro_182;M;Capital Federal
+9728;Romina_182;F;Santa Fe
+9729;Ana_183;F;Capital Federal
+9730;Juan_183;M;Buenos Aires
+9731;Pedro_183;M;Buenos Aires
+9732;Romina_183;F;Capital Federal
+9733;Ana_184;F;Capital Federal
+9734;Juan_184;M;Capital Federal
+9735;Pedro_184;M;Capital Federal
+9736;Romina_184;F;Capital Federal
+9737;Ana_185;F;Capital Federal
+9738;Juan_185;M;Buenos Aires
+9739;Pedro_185;M;Buenos Aires
+9740;Romina_185;F;Capital Federal
+9741;Ana_186;F;Buenos Aires
+9742;Juan_186;M;Buenos Aires
+9743;Pedro_186;M;Capital Federal
+9744;Romina_186;F;Capital Federal
+9745;Ana_187;F;Santa Fe
+9746;Juan_187;M;Cordoba
+9747;Pedro_187;M;Buenos Aires
+9748;Romina_187;F;Cordoba
+9749;Ana_188;F;Capital Federal
+9750;Juan_188;M;Buenos Aires
+9751;Pedro_188;M;Capital Federal
+9752;Romina_188;F;Capital Federal
+9753;Ana_189;F;Capital Federal
+9754;Juan_189;M;Buenos Aires
+9755;Pedro_189;M;Cordoba
+9756;Romina_189;F;Capital Federal
+9757;Ana_190;F;Capital Federal
+9758;Juan_190;M;Buenos Aires
+9759;Pedro_190;M;Cordoba
+9760;Romina_190;F;Buenos Aires
+9761;Ana_191;F;Capital Federal
+9762;Juan_191;M;Cordoba
+9763;Pedro_191;M;Buenos Aires
+9764;Romina_191;F;Capital Federal
+9765;Ana_192;F;Capital Federal
+9766;Juan_192;M;Cordoba
+9767;Pedro_192;M;Cordoba
+9768;Romina_192;F;Capital Federal
+9769;Ana_193;F;Capital Federal
+9770;Juan_193;M;Capital Federal
+9771;Pedro_193;M;Capital Federal
+9772;Romina_193;F;Capital Federal
+9773;Ana_194;F;Capital Federal
+9774;Juan_194;M;Capital Federal
+9775;Pedro_194;M;Buenos Aires
+9776;Romina_194;F;Capital Federal
+9777;Ana_195;F;Capital Federal
+9778;Juan_195;M;Capital Federal
+9779;Pedro_195;M;Capital Federal
+9780;Romina_195;F;Capital Federal
+9781;Ana_196;F;Capital Federal
+9782;Juan_196;M;Buenos Aires
+9783;Pedro_196;M;Capital Federal
+9784;Romina_196;F;Capital Federal
+9785;Ana_197;F;Capital Federal
+9786;Juan_197;M;Capital Federal
+9787;Pedro_197;M;Cordoba
+9788;Romina_197;F;Cordoba
+9789;Ana_198;F;Santa Fe
+9790;Juan_198;M;Buenos Aires
+9791;Pedro_198;M;Capital Federal
+9792;Romina_198;F;Buenos Aires
+9793;Ana_199;F;Capital Federal
+9794;Juan_199;M;Capital Federal
+9795;Pedro_199;M;Buenos Aires
+9796;Romina_199;F;Buenos Aires
+9797;Ana_200;F;Capital Federal
+9798;Juan_200;M;Capital Federal
+9799;Pedro_200;M;Santa Fe
+9800;Romina_200;F;Cordoba
+9801;Ana_201;F;Capital Federal
+9802;Juan_201;M;Buenos Aires
+9803;Pedro_201;M;Capital Federal
+9804;Romina_201;F;Capital Federal
+9805;Ana_202;F;Buenos Aires
+9806;Juan_202;M;Buenos Aires
+9807;Pedro_202;M;Buenos Aires
+9808;Romina_202;F;Cordoba
+9809;Ana_203;F;Buenos Aires
+9810;Juan_203;M;Capital Federal
+9811;Pedro_203;M;Capital Federal
+9812;Romina_203;F;Capital Federal
+9813;Ana_204;F;Santa Fe
+9814;Juan_204;M;Capital Federal
+9815;Pedro_204;M;Capital Federal
+9816;Romina_204;F;Capital Federal
+9817;Ana_205;F;Capital Federal
+9818;Juan_205;M;Capital Federal
+9819;Pedro_205;M;Cordoba
+9820;Romina_205;F;Buenos Aires
+9821;Ana_206;F;Capital Federal
+9822;Juan_206;M;Capital Federal
+9823;Pedro_206;M;Capital Federal
+9824;Romina_206;F;Capital Federal
+9825;Ana_207;F;Buenos Aires
+9826;Juan_207;M;Buenos Aires
+9827;Pedro_207;M;Capital Federal
+9828;Romina_207;F;Capital Federal
+9829;Ana_208;F;Buenos Aires
+9830;Juan_208;M;Capital Federal
+9831;Pedro_208;M;Capital Federal
+9832;Romina_208;F;Capital Federal
+9833;Ana_209;F;Capital Federal
+9834;Juan_209;M;Capital Federal
+9835;Pedro_209;M;Capital Federal
+9836;Romina_209;F;Capital Federal
+9837;Ana_210;F;Buenos Aires
+9838;Juan_210;M;Capital Federal
+9839;Pedro_210;M;Cordoba
+9840;Romina_210;F;Capital Federal
+9841;Ana_211;F;Buenos Aires
+9842;Juan_211;M;Capital Federal
+9843;Pedro_211;M;Capital Federal
+9844;Romina_211;F;Capital Federal
+9845;Ana_212;F;Capital Federal
+9846;Juan_212;M;Capital Federal
+9847;Pedro_212;M;Capital Federal
+9848;Romina_212;F;Capital Federal
+9849;Ana_213;F;Buenos Aires
+9850;Juan_213;M;Capital Federal
+9851;Pedro_213;M;Capital Federal
+9852;Romina_213;F;Buenos Aires
+9853;Ana_214;F;Capital Federal
+9854;Juan_214;M;Capital Federal
+9855;Pedro_214;M;Capital Federal
+9856;Romina_214;F;Buenos Aires
+9857;Ana_215;F;Capital Federal
+9858;Juan_215;M;Capital Federal
+9859;Pedro_215;M;Santa Fe
+9860;Romina_215;F;Capital Federal
+9861;Ana_216;F;Capital Federal
+9862;Juan_216;M;Capital Federal
+9863;Pedro_216;M;Capital Federal
+9864;Romina_216;F;Capital Federal
+9865;Ana_217;F;Capital Federal
+9866;Juan_217;M;Capital Federal
+9867;Pedro_217;M;Capital Federal
+9868;Romina_217;F;Buenos Aires
+9869;Ana_218;F;Capital Federal
+9870;Juan_218;M;Capital Federal
+9871;Pedro_218;M;Capital Federal
+9872;Romina_218;F;Capital Federal
+9873;Ana_219;F;Capital Federal
+9874;Juan_219;M;Capital Federal
+9875;Pedro_219;M;Capital Federal
+9876;Romina_219;F;Capital Federal
+9877;Ana_220;F;Capital Federal
+9878;Juan_220;M;Capital Federal
+9879;Pedro_220;M;Santa Fe
+9880;Romina_220;F;Capital Federal
+9881;Ana_221;F;Capital Federal
+9882;Juan_221;M;Cordoba
+9883;Pedro_221;M;Buenos Aires
+9884;Romina_221;F;Capital Federal
+9885;Ana_222;F;Santa Fe
+9886;Juan_222;M;Capital Federal
+9887;Pedro_222;M;Capital Federal
+9888;Romina_222;F;Capital Federal
+9889;Ana_223;F;Capital Federal
+9890;Juan_223;M;Capital Federal
+9891;Pedro_223;M;Cordoba
+9892;Romina_223;F;Capital Federal
+9893;Ana_224;F;Capital Federal
+9894;Juan_224;M;Buenos Aires
+9895;Pedro_224;M;Santa Fe
+9896;Romina_224;F;Capital Federal
+9897;Ana_225;F;Capital Federal
+9898;Juan_225;M;Capital Federal
+9899;Pedro_225;M;Capital Federal
+9900;Romina_225;F;Capital Federal
+9901;Ana_226;F;Capital Federal
+9902;Juan_226;M;Capital Federal
+9903;Pedro_226;M;Capital Federal
+9904;Romina_226;F;Capital Federal
+9905;Ana_227;F;Buenos Aires
+9906;Juan_227;M;Capital Federal
+9907;Pedro_227;M;Buenos Aires
+9908;Romina_227;F;Buenos Aires
+9909;Ana_228;F;Capital Federal
+9910;Juan_228;M;Buenos Aires
+9911;Pedro_228;M;Capital Federal
+9912;Romina_228;F;Buenos Aires
+9913;Ana_229;F;Buenos Aires
+9914;Juan_229;M;Cordoba
+9915;Pedro_229;M;Cordoba
+9916;Romina_229;F;Capital Federal
+9917;Ana_230;F;Buenos Aires
+9918;Juan_230;M;Capital Federal
+9919;Pedro_230;M;Capital Federal
+9920;Romina_230;F;Capital Federal
+9921;Ana_231;F;Buenos Aires
+9922;Juan_231;M;Capital Federal
+9923;Pedro_231;M;Buenos Aires
+9924;Romina_231;F;Capital Federal
+9925;Ana_232;F;Capital Federal
+9926;Juan_232;M;Buenos Aires
+9927;Pedro_232;M;Buenos Aires
+9928;Romina_232;F;Capital Federal
+9929;Ana_233;F;Capital Federal
+9930;Juan_233;M;Buenos Aires
+9931;Pedro_233;M;Capital Federal
+9932;Romina_233;F;Buenos Aires
+9933;Ana_234;F;Capital Federal
+9934;Juan_234;M;Buenos Aires
+9935;Pedro_234;M;Capital Federal
+9936;Romina_234;F;Capital Federal
+9937;Ana_235;F;Cordoba
+9938;Juan_235;M;Buenos Aires
+9939;Pedro_235;M;Capital Federal
+9940;Romina_235;F;Capital Federal
+9941;Ana_236;F;Buenos Aires
+9942;Juan_236;M;Buenos Aires
+9943;Pedro_236;M;Capital Federal
+9944;Romina_236;F;Buenos Aires
+9945;Ana_237;F;Buenos Aires
+9946;Juan_237;M;Capital Federal
+9947;Pedro_237;M;Buenos Aires
+9948;Romina_237;F;Capital Federal
+9949;Ana_238;F;Cordoba
+9950;Juan_238;M;Capital Federal
+9951;Pedro_238;M;Capital Federal
+9952;Romina_238;F;Capital Federal
+9953;Ana_239;F;Capital Federal
+9954;Juan_239;M;Buenos Aires
+9955;Pedro_239;M;Capital Federal
+9956;Romina_239;F;Capital Federal
+9957;Ana_240;F;Capital Federal
+9958;Juan_240;M;Capital Federal
+9959;Pedro_240;M;Capital Federal
+9960;Romina_240;F;Capital Federal
+9961;Ana_241;F;Buenos Aires
+9962;Juan_241;M;Capital Federal
+9963;Pedro_241;M;Buenos Aires
+9964;Romina_241;F;Buenos Aires
+9965;Ana_242;F;Buenos Aires
+9966;Juan_242;M;Capital Federal
+9967;Pedro_242;M;Capital Federal
+9968;Romina_242;F;Capital Federal
+9969;Ana_243;F;Capital Federal
+9970;Juan_243;M;Santa Fe
+9971;Pedro_243;M;Capital Federal
+9972;Romina_243;F;Capital Federal
+9973;Ana_244;F;Buenos Aires
+9974;Juan_244;M;Cordoba
+9975;Pedro_244;M;Capital Federal
+9976;Romina_244;F;Capital Federal
+9977;Ana_245;F;Capital Federal
+9978;Juan_245;M;Capital Federal
+9979;Pedro_245;M;Capital Federal
+9980;Romina_245;F;Capital Federal
+9981;Ana_246;F;Cordoba
+9982;Juan_246;M;Capital Federal
+9983;Pedro_246;M;Capital Federal
+9984;Romina_246;F;Capital Federal
+9985;Ana_247;F;Capital Federal
+9986;Juan_247;M;Buenos Aires
+9987;Pedro_247;M;Capital Federal
+9988;Romina_247;F;Cordoba
+9989;Ana_248;F;Santa Fe
+9990;Juan_248;M;Cordoba
+9991;Pedro_248;M;Capital Federal
+9992;Romina_248;F;Buenos Aires
+9993;Ana_249;F;Buenos Aires
+9994;Juan_249;M;Cordoba
+9995;Pedro_249;M;Buenos Aires
+9996;Romina_249;F;Capital Federal
+9997;Ana_250;F;Capital Federal
+9998;Juan_250;M;Capital Federal
+9999;Pedro_250;M;Cordoba
+10000;Romina_250;F;Capital Federal
+10001;Ana_251;F;Buenos Aires
+10002;Juan_251;M;Capital Federal
+10003;Pedro_251;M;Capital Federal
+10004;Romina_251;F;Capital Federal
+10005;Ana_252;F;Buenos Aires
+10006;Juan_252;M;Buenos Aires
+10007;Pedro_252;M;Capital Federal
+10008;Romina_252;F;Buenos Aires
+10009;Ana_253;F;Capital Federal
+10010;Juan_253;M;Buenos Aires
+10011;Pedro_253;M;Capital Federal
+10012;Romina_253;F;Cordoba
+10013;Ana_254;F;Buenos Aires
+10014;Juan_254;M;Capital Federal
+10015;Pedro_254;M;Capital Federal
+10016;Romina_254;F;Buenos Aires
+10017;Ana_255;F;Buenos Aires
+10018;Juan_255;M;Buenos Aires
+10019;Pedro_255;M;Santa Fe
+10020;Romina_255;F;Capital Federal
+10021;Ana_256;F;Capital Federal
+10022;Juan_256;M;Capital Federal
+10023;Pedro_256;M;Capital Federal
+10024;Romina_256;F;Capital Federal
+10025;Ana_257;F;Capital Federal
+10026;Juan_257;M;Capital Federal
+10027;Pedro_257;M;Buenos Aires
+10028;Romina_257;F;Cordoba
+10029;Ana_258;F;Capital Federal
+10030;Juan_258;M;Capital Federal
+10031;Pedro_258;M;Capital Federal
+10032;Romina_258;F;Cordoba
+10033;Ana_259;F;Capital Federal
+10034;Juan_259;M;Buenos Aires
+10035;Pedro_259;M;Buenos Aires
+10036;Romina_259;F;Cordoba
+10037;Ana_260;F;Capital Federal
+10038;Juan_260;M;Capital Federal
+10039;Pedro_260;M;Cordoba
+10040;Romina_260;F;Cordoba
+10041;Ana_261;F;Capital Federal
+10042;Juan_261;M;Capital Federal
+10043;Pedro_261;M;Capital Federal
+10044;Romina_261;F;Capital Federal
+10045;Ana_262;F;Santa Fe
+10046;Juan_262;M;Capital Federal
+10047;Pedro_262;M;Capital Federal
+10048;Romina_262;F;Buenos Aires
+10049;Ana_263;F;Capital Federal
+10050;Juan_263;M;Buenos Aires
+10051;Pedro_263;M;Capital Federal
+10052;Romina_263;F;Capital Federal
+10053;Ana_264;F;Capital Federal
+10054;Juan_264;M;Capital Federal
+10055;Pedro_264;M;Buenos Aires
+10056;Romina_264;F;Capital Federal
+10057;Ana_265;F;Santa Fe
+10058;Juan_265;M;Capital Federal
+10059;Pedro_265;M;Capital Federal
+10060;Romina_265;F;Cordoba
+10061;Ana_266;F;Buenos Aires
+10062;Juan_266;M;Capital Federal
+10063;Pedro_266;M;Capital Federal
+10064;Romina_266;F;Capital Federal
+10065;Ana_267;F;Capital Federal
+10066;Juan_267;M;Buenos Aires
+10067;Pedro_267;M;Capital Federal
+10068;Romina_267;F;Capital Federal
+10069;Ana_268;F;Capital Federal
+10070;Juan_268;M;Cordoba
+10071;Pedro_268;M;Capital Federal
+10072;Romina_268;F;Capital Federal
+10073;Ana_269;F;Buenos Aires
+10074;Juan_269;M;Capital Federal
+10075;Pedro_269;M;Capital Federal
+10076;Romina_269;F;Capital Federal
+10077;Ana_270;F;Cordoba
+10078;Juan_270;M;Capital Federal
+10079;Pedro_270;M;Buenos Aires
+10080;Romina_270;F;Buenos Aires
+10081;Ana_271;F;Capital Federal
+10082;Juan_271;M;Capital Federal
+10083;Pedro_271;M;Buenos Aires
+10084;Romina_271;F;Buenos Aires
+10085;Ana_272;F;Capital Federal
+10086;Juan_272;M;Capital Federal
+10087;Pedro_272;M;Capital Federal
+10088;Romina_272;F;Capital Federal
+10089;Ana_273;F;Cordoba
+10090;Juan_273;M;Santa Fe
+10091;Pedro_273;M;Cordoba
+10092;Romina_273;F;Buenos Aires
+10093;Ana_274;F;Capital Federal
+10094;Juan_274;M;Buenos Aires
+10095;Pedro_274;M;Buenos Aires
+10096;Romina_274;F;Capital Federal
+10097;Ana_275;F;Buenos Aires
+10098;Juan_275;M;Capital Federal
+10099;Pedro_275;M;Capital Federal
+10100;Romina_275;F;Buenos Aires
+10101;Ana_276;F;Capital Federal
+10102;Juan_276;M;Capital Federal
+10103;Pedro_276;M;Capital Federal
+10104;Romina_276;F;Buenos Aires
+10105;Ana_277;F;Capital Federal
+10106;Juan_277;M;Capital Federal
+10107;Pedro_277;M;Capital Federal
+10108;Romina_277;F;Capital Federal
+10109;Ana_278;F;Capital Federal
+10110;Juan_278;M;Capital Federal
+10111;Pedro_278;M;Buenos Aires
+10112;Romina_278;F;Buenos Aires
+10113;Ana_279;F;Buenos Aires
+10114;Juan_279;M;Capital Federal
+10115;Pedro_279;M;Capital Federal
+10116;Romina_279;F;Santa Fe
+10117;Ana_280;F;Capital Federal
+10118;Juan_280;M;Capital Federal
+10119;Pedro_280;M;Capital Federal
+10120;Romina_280;F;Buenos Aires
+10121;Ana_281;F;Capital Federal
+10122;Juan_281;M;Capital Federal
+10123;Pedro_281;M;Capital Federal
+10124;Romina_281;F;Cordoba
+10125;Ana_282;F;Buenos Aires
+10126;Juan_282;M;Capital Federal
+10127;Pedro_282;M;Capital Federal
+10128;Romina_282;F;Capital Federal
+10129;Ana_283;F;Capital Federal
+10130;Juan_283;M;Buenos Aires
+10131;Pedro_283;M;Capital Federal
+10132;Romina_283;F;Cordoba
+10133;Ana_284;F;Buenos Aires
+10134;Juan_284;M;Buenos Aires
+10135;Pedro_284;M;Capital Federal
+10136;Romina_284;F;Santa Fe
+10137;Ana_285;F;Buenos Aires
+10138;Juan_285;M;Capital Federal
+10139;Pedro_285;M;Capital Federal
+10140;Romina_285;F;Buenos Aires
+10141;Ana_286;F;Buenos Aires
+10142;Juan_286;M;Capital Federal
+10143;Pedro_286;M;Buenos Aires
+10144;Romina_286;F;Buenos Aires
+10145;Ana_287;F;Capital Federal
+10146;Juan_287;M;Capital Federal
+10147;Pedro_287;M;Capital Federal
+10148;Romina_287;F;Capital Federal
+10149;Ana_288;F;Capital Federal
+10150;Juan_288;M;Capital Federal
+10151;Pedro_288;M;Capital Federal
+10152;Romina_288;F;Buenos Aires
+10153;Ana_289;F;Buenos Aires
+10154;Juan_289;M;Capital Federal
+10155;Pedro_289;M;Santa Fe
+10156;Romina_289;F;Buenos Aires
+10157;Ana_290;F;Capital Federal
+10158;Juan_290;M;Capital Federal
+10159;Pedro_290;M;Capital Federal
+10160;Romina_290;F;Capital Federal
+10161;Ana_291;F;Capital Federal
+10162;Juan_291;M;Capital Federal
+10163;Pedro_291;M;Buenos Aires
+10164;Romina_291;F;Capital Federal
+10165;Ana_292;F;Buenos Aires
+10166;Juan_292;M;Capital Federal
+10167;Pedro_292;M;Capital Federal
+10168;Romina_292;F;Capital Federal
+10169;Ana_293;F;Buenos Aires
+10170;Juan_293;M;Capital Federal
+10171;Pedro_293;M;Buenos Aires
+10172;Romina_293;F;Capital Federal
+10173;Ana_294;F;Cordoba
+10174;Juan_294;M;Buenos Aires
+10175;Pedro_294;M;Buenos Aires
+10176;Romina_294;F;Capital Federal
+10177;Ana_295;F;Capital Federal
+10178;Juan_295;M;Capital Federal
+10179;Pedro_295;M;Capital Federal
+10180;Romina_295;F;Capital Federal
+10181;Ana_296;F;Buenos Aires
+10182;Juan_296;M;Capital Federal
+10183;Pedro_296;M;Capital Federal
+10184;Romina_296;F;Capital Federal
+10185;Ana_297;F;Cordoba
+10186;Juan_297;M;Capital Federal
+10187;Pedro_297;M;Capital Federal
+10188;Romina_297;F;Buenos Aires
+10189;Ana_298;F;Capital Federal
+10190;Juan_298;M;Capital Federal
+10191;Pedro_298;M;Capital Federal
+10192;Romina_298;F;Buenos Aires
+10193;Ana_299;F;Capital Federal
+10194;Juan_299;M;Capital Federal
+10195;Pedro_299;M;Buenos Aires
+10196;Romina_299;F;Buenos Aires
+10197;Ana_300;F;Capital Federal
+10198;Juan_300;M;Capital Federal
+10199;Pedro_300;M;Capital Federal
+10200;Romina_300;F;Buenos Aires
+10201;Ana_301;F;Santa Fe
+10202;Juan_301;M;Capital Federal
+10203;Pedro_301;M;Capital Federal
+10204;Romina_301;F;Capital Federal
+10205;Ana_302;F;Capital Federal
+10206;Juan_302;M;Capital Federal
+10207;Pedro_302;M;Capital Federal
+10208;Romina_302;F;Buenos Aires
+10209;Ana_303;F;Capital Federal
+10210;Juan_303;M;Capital Federal
+10211;Pedro_303;M;Capital Federal
+10212;Romina_303;F;Capital Federal
+10213;Ana_304;F;Buenos Aires
+10214;Juan_304;M;Cordoba
+10215;Pedro_304;M;Capital Federal
+10216;Romina_304;F;Capital Federal
+10217;Ana_305;F;Capital Federal
+10218;Juan_305;M;Capital Federal
+10219;Pedro_305;M;Cordoba
+10220;Romina_305;F;Buenos Aires
+10221;Ana_306;F;Capital Federal
+10222;Juan_306;M;Buenos Aires
+10223;Pedro_306;M;Capital Federal
+10224;Romina_306;F;Santa Fe
+10225;Ana_307;F;Buenos Aires
+10226;Juan_307;M;Capital Federal
+10227;Pedro_307;M;Buenos Aires
+10228;Romina_307;F;Capital Federal
+10229;Ana_308;F;Capital Federal
+10230;Juan_308;M;Capital Federal
+10231;Pedro_308;M;Capital Federal
+10232;Romina_308;F;Capital Federal
+10233;Ana_309;F;Capital Federal
+10234;Juan_309;M;Capital Federal
+10235;Pedro_309;M;Buenos Aires
+10236;Romina_309;F;Buenos Aires
+10237;Ana_310;F;Capital Federal
+10238;Juan_310;M;Capital Federal
+10239;Pedro_310;M;Buenos Aires
+10240;Romina_310;F;Capital Federal
+10241;Ana_311;F;Capital Federal
+10242;Juan_311;M;Capital Federal
+10243;Pedro_311;M;Capital Federal
+10244;Romina_311;F;Buenos Aires
+10245;Ana_312;F;Capital Federal
+10246;Juan_312;M;Cordoba
+10247;Pedro_312;M;Capital Federal
+10248;Romina_312;F;Buenos Aires
+10249;Ana_313;F;Capital Federal
+10250;Juan_313;M;Buenos Aires
+10251;Pedro_313;M;Buenos Aires
+10252;Romina_313;F;Cordoba
+10253;Ana_314;F;Capital Federal
+10254;Juan_314;M;Capital Federal
+10255;Pedro_314;M;Capital Federal
+10256;Romina_314;F;Capital Federal
+10257;Ana_315;F;Santa Fe
+10258;Juan_315;M;Capital Federal
+10259;Pedro_315;M;Capital Federal
+10260;Romina_315;F;Buenos Aires
+10261;Ana_316;F;Capital Federal
+10262;Juan_316;M;Cordoba
+10263;Pedro_316;M;Capital Federal
+10264;Romina_316;F;Capital Federal
+10265;Ana_317;F;Capital Federal
+10266;Juan_317;M;Capital Federal
+10267;Pedro_317;M;Capital Federal
+10268;Romina_317;F;Capital Federal
+10269;Ana_318;F;Buenos Aires
+10270;Juan_318;M;Buenos Aires
+10271;Pedro_318;M;Capital Federal
+10272;Romina_318;F;Buenos Aires
+10273;Ana_319;F;Capital Federal
+10274;Juan_319;M;Capital Federal
+10275;Pedro_319;M;Capital Federal
+10276;Romina_319;F;Capital Federal
+10277;Ana_320;F;Capital Federal
+10278;Juan_320;M;Buenos Aires
+10279;Pedro_320;M;Capital Federal
+10280;Romina_320;F;Buenos Aires
+10281;Ana_321;F;Capital Federal
+10282;Juan_321;M;Buenos Aires
+10283;Pedro_321;M;Capital Federal
+10284;Romina_321;F;Capital Federal
+10285;Ana_322;F;Buenos Aires
+10286;Juan_322;M;Capital Federal
+10287;Pedro_322;M;Santa Fe
+10288;Romina_322;F;Capital Federal
+10289;Ana_323;F;Capital Federal
+10290;Juan_323;M;Buenos Aires
+10291;Pedro_323;M;Buenos Aires
+10292;Romina_323;F;Buenos Aires
+10293;Ana_324;F;Capital Federal
+10294;Juan_324;M;Capital Federal
+10295;Pedro_324;M;Capital Federal
+10296;Romina_324;F;Capital Federal
+10297;Ana_325;F;Capital Federal
+10298;Juan_325;M;Capital Federal
+10299;Pedro_325;M;Capital Federal
+10300;Romina_325;F;Buenos Aires
+10301;Ana_326;F;Capital Federal
+10302;Juan_326;M;Buenos Aires
+10303;Pedro_326;M;Santa Fe
+10304;Romina_326;F;Capital Federal
+10305;Ana_327;F;Capital Federal
+10306;Juan_327;M;Capital Federal
+10307;Pedro_327;M;Capital Federal
+10308;Romina_327;F;Buenos Aires
+10309;Ana_328;F;Capital Federal
+10310;Juan_328;M;Buenos Aires
+10311;Pedro_328;M;Capital Federal
+10312;Romina_328;F;Cordoba
+10313;Ana_329;F;Capital Federal
+10314;Juan_329;M;Buenos Aires
+10315;Pedro_329;M;Capital Federal
+10316;Romina_329;F;Buenos Aires
+10317;Ana_330;F;Capital Federal
+10318;Juan_330;M;Buenos Aires
+10319;Pedro_330;M;Capital Federal
+10320;Romina_330;F;Capital Federal
+10321;Ana_331;F;Capital Federal
+10322;Juan_331;M;Capital Federal
+10323;Pedro_331;M;Capital Federal
+10324;Romina_331;F;Buenos Aires
+10325;Ana_332;F;Capital Federal
+10326;Juan_332;M;Capital Federal
+10327;Pedro_332;M;Capital Federal
+10328;Romina_332;F;Capital Federal
+10329;Ana_333;F;Capital Federal
+10330;Juan_333;M;Cordoba
+10331;Pedro_333;M;Capital Federal
+10332;Romina_333;F;Santa Fe
+10333;Ana_334;F;Buenos Aires
+10334;Juan_334;M;Capital Federal
+10335;Pedro_334;M;Capital Federal
+10336;Romina_334;F;Capital Federal
+10337;Ana_335;F;Capital Federal
+10338;Juan_335;M;Buenos Aires
+10339;Pedro_335;M;Capital Federal
+10340;Romina_335;F;Buenos Aires
+10341;Ana_336;F;Capital Federal
+10342;Juan_336;M;Cordoba
+10343;Pedro_336;M;Capital Federal
+10344;Romina_336;F;Capital Federal
+10345;Ana_337;F;Buenos Aires
+10346;Juan_337;M;Capital Federal
+10347;Pedro_337;M;Capital Federal
+10348;Romina_337;F;Buenos Aires
+10349;Ana_338;F;Buenos Aires
+10350;Juan_338;M;Capital Federal
+10351;Pedro_338;M;Buenos Aires
+10352;Romina_338;F;Cordoba
+10353;Ana_339;F;Buenos Aires
+10354;Juan_339;M;Capital Federal
+10355;Pedro_339;M;Capital Federal
+10356;Romina_339;F;Capital Federal
+10357;Ana_340;F;Buenos Aires
+10358;Juan_340;M;Capital Federal
+10359;Pedro_340;M;Buenos Aires
+10360;Romina_340;F;Capital Federal
+10361;Ana_341;F;Capital Federal
+10362;Juan_341;M;Capital Federal
+10363;Pedro_341;M;Capital Federal
+10364;Romina_341;F;Capital Federal
+10365;Ana_342;F;Capital Federal
+10366;Juan_342;M;Capital Federal
+10367;Pedro_342;M;Capital Federal
+10368;Romina_342;F;Capital Federal
+10369;Ana_343;F;Capital Federal
+10370;Juan_343;M;Capital Federal
+10371;Pedro_343;M;Buenos Aires
+10372;Romina_343;F;Capital Federal
+10373;Ana_344;F;Buenos Aires
+10374;Juan_344;M;Cordoba
+10375;Pedro_344;M;Buenos Aires
+10376;Romina_344;F;Cordoba
+10377;Ana_345;F;Santa Fe
+10378;Juan_345;M;Capital Federal
+10379;Pedro_345;M;Capital Federal
+10380;Romina_345;F;Buenos Aires
+10381;Ana_346;F;Buenos Aires
+10382;Juan_346;M;Capital Federal
+10383;Pedro_346;M;Buenos Aires
+10384;Romina_346;F;Capital Federal
+10385;Ana_347;F;Capital Federal
+10386;Juan_347;M;Capital Federal
+10387;Pedro_347;M;Buenos Aires
+10388;Romina_347;F;Capital Federal
+10389;Ana_348;F;Buenos Aires
+10390;Juan_348;M;Cordoba
+10391;Pedro_348;M;Capital Federal
+10392;Romina_348;F;Capital Federal
+10393;Ana_349;F;Santa Fe
+10394;Juan_349;M;Capital Federal
+10395;Pedro_349;M;Buenos Aires
+10396;Romina_349;F;Capital Federal
+10397;Ana_350;F;Cordoba
+10398;Juan_350;M;Santa Fe
+10399;Pedro_350;M;Buenos Aires
+10400;Romina_350;F;Capital Federal
+10401;Ana_351;F;Cordoba
+10402;Juan_351;M;Capital Federal
+10403;Pedro_351;M;Cordoba
+10404;Romina_351;F;Buenos Aires
+10405;Ana_352;F;Capital Federal
+10406;Juan_352;M;Capital Federal
+10407;Pedro_352;M;Capital Federal
+10408;Romina_352;F;Capital Federal
+10409;Ana_353;F;Buenos Aires
+10410;Juan_353;M;Capital Federal
+10411;Pedro_353;M;Capital Federal
+10412;Romina_353;F;Capital Federal
+10413;Ana_354;F;Capital Federal
+10414;Juan_354;M;Capital Federal
+10415;Pedro_354;M;Buenos Aires
+10416;Romina_354;F;Capital Federal
+10417;Ana_355;F;Buenos Aires
+10418;Juan_355;M;Cordoba
+10419;Pedro_355;M;Capital Federal
+10420;Romina_355;F;Cordoba
+10421;Ana_356;F;Capital Federal
+10422;Juan_356;M;Capital Federal
+10423;Pedro_356;M;Capital Federal
+10424;Romina_356;F;Capital Federal
+10425;Ana_357;F;Capital Federal
+10426;Juan_357;M;Buenos Aires
+10427;Pedro_357;M;Buenos Aires
+10428;Romina_357;F;Capital Federal
+10429;Ana_358;F;Buenos Aires
+10430;Juan_358;M;Capital Federal
+10431;Pedro_358;M;Capital Federal
+10432;Romina_358;F;Buenos Aires
+10433;Ana_359;F;Capital Federal
+10434;Juan_359;M;Capital Federal
+10435;Pedro_359;M;Capital Federal
+10436;Romina_359;F;Capital Federal
+10437;Ana_360;F;Capital Federal
+10438;Juan_360;M;Capital Federal
+10439;Pedro_360;M;Capital Federal
+10440;Romina_360;F;Capital Federal
+10441;Ana_361;F;Capital Federal
+10442;Juan_361;M;Santa Fe
+10443;Pedro_361;M;Capital Federal
+10444;Romina_361;F;Capital Federal
+10445;Ana_362;F;Buenos Aires
+10446;Juan_362;M;Buenos Aires
+10447;Pedro_362;M;Capital Federal
+10448;Romina_362;F;Cordoba
+10449;Ana_363;F;Buenos Aires
+10450;Juan_363;M;Buenos Aires
+10451;Pedro_363;M;Buenos Aires
+10452;Romina_363;F;Capital Federal
+10453;Ana_364;F;Buenos Aires
+10454;Juan_364;M;Santa Fe
+10455;Pedro_364;M;Capital Federal
+10456;Romina_364;F;Buenos Aires
+10457;Ana_365;F;Capital Federal
+10458;Juan_365;M;Capital Federal
+10459;Pedro_365;M;Capital Federal
+10460;Romina_365;F;Capital Federal
+10461;Ana_366;F;Buenos Aires
+10462;Juan_366;M;Capital Federal
+10463;Pedro_366;M;Capital Federal
+10464;Romina_366;F;Cordoba
+10465;Ana_367;F;Cordoba
+10466;Juan_367;M;Capital Federal
+10467;Pedro_367;M;Cordoba
+10468;Romina_367;F;Cordoba
+10469;Ana_368;F;Capital Federal
+10470;Juan_368;M;Buenos Aires
+10471;Pedro_368;M;Capital Federal
+10472;Romina_368;F;Capital Federal
+10473;Ana_369;F;Cordoba
+10474;Juan_369;M;Capital Federal
+10475;Pedro_369;M;Buenos Aires
+10476;Romina_369;F;Capital Federal
+10477;Ana_370;F;Cordoba
+10478;Juan_370;M;Cordoba
+10479;Pedro_370;M;Capital Federal
+10480;Romina_370;F;Buenos Aires
+10481;Ana_371;F;Cordoba
+10482;Juan_371;M;Buenos Aires
+10483;Pedro_371;M;Capital Federal
+10484;Romina_371;F;Capital Federal
+10485;Ana_372;F;Cordoba
+10486;Juan_372;M;Buenos Aires
+10487;Pedro_372;M;Capital Federal
+10488;Romina_372;F;Buenos Aires
+10489;Ana_373;F;Buenos Aires
+10490;Juan_373;M;Capital Federal
+10491;Pedro_373;M;Capital Federal
+10492;Romina_373;F;Buenos Aires
+10493;Ana_374;F;Capital Federal
+10494;Juan_374;M;Cordoba
+10495;Pedro_374;M;Capital Federal
+10496;Romina_374;F;Cordoba
+10497;Ana_375;F;Buenos Aires
+10498;Juan_375;M;Cordoba
+10499;Pedro_375;M;Capital Federal
+10500;Romina_375;F;Cordoba
+10501;Ana_376;F;Cordoba
+10502;Juan_376;M;Santa Fe
+10503;Pedro_376;M;Cordoba
+10504;Romina_376;F;Capital Federal
+10505;Ana_377;F;Santa Fe
+10506;Juan_377;M;Capital Federal
+10507;Pedro_377;M;Capital Federal
+10508;Romina_377;F;Capital Federal
+10509;Ana_378;F;Capital Federal
+10510;Juan_378;M;Capital Federal
+10511;Pedro_378;M;Capital Federal
+10512;Romina_378;F;Capital Federal
+10513;Ana_379;F;Capital Federal
+10514;Juan_379;M;Capital Federal
+10515;Pedro_379;M;Buenos Aires
+10516;Romina_379;F;Cordoba
+10517;Ana_380;F;Cordoba
+10518;Juan_380;M;Capital Federal
+10519;Pedro_380;M;Capital Federal
+10520;Romina_380;F;Capital Federal
+10521;Ana_381;F;Capital Federal
+10522;Juan_381;M;Capital Federal
+10523;Pedro_381;M;Buenos Aires
+10524;Romina_381;F;Capital Federal
+10525;Ana_382;F;Capital Federal
+10526;Juan_382;M;Buenos Aires
+10527;Pedro_382;M;Capital Federal
+10528;Romina_382;F;Capital Federal
+10529;Ana_383;F;Buenos Aires
+10530;Juan_383;M;Capital Federal
+10531;Pedro_383;M;Capital Federal
+10532;Romina_383;F;Buenos Aires
+10533;Ana_384;F;Capital Federal
+10534;Juan_384;M;Capital Federal
+10535;Pedro_384;M;Buenos Aires
+10536;Romina_384;F;Buenos Aires
+10537;Ana_385;F;Capital Federal
+10538;Juan_385;M;Buenos Aires
+10539;Pedro_385;M;Capital Federal
+10540;Romina_385;F;Capital Federal
+10541;Ana_386;F;Capital Federal
+10542;Juan_386;M;Capital Federal
+10543;Pedro_386;M;Capital Federal
+10544;Romina_386;F;Cordoba
+10545;Ana_387;F;Capital Federal
+10546;Juan_387;M;Capital Federal
+10547;Pedro_387;M;Capital Federal
+10548;Romina_387;F;Capital Federal
+10549;Ana_388;F;Capital Federal
+10550;Juan_388;M;Buenos Aires
+10551;Pedro_388;M;Capital Federal
+10552;Romina_388;F;Buenos Aires
+10553;Ana_389;F;Buenos Aires
+10554;Juan_389;M;Buenos Aires
+10555;Pedro_389;M;Cordoba
+10556;Romina_389;F;Buenos Aires
+10557;Ana_390;F;Capital Federal
+10558;Juan_390;M;Santa Fe
+10559;Pedro_390;M;Capital Federal
+10560;Romina_390;F;Capital Federal
+10561;Ana_391;F;Buenos Aires
+10562;Juan_391;M;Capital Federal
+10563;Pedro_391;M;Cordoba
+10564;Romina_391;F;Capital Federal
+10565;Ana_392;F;Buenos Aires
+10566;Juan_392;M;Buenos Aires
+10567;Pedro_392;M;Capital Federal
+10568;Romina_392;F;Santa Fe
+10569;Ana_393;F;Capital Federal
+10570;Juan_393;M;Capital Federal
+10571;Pedro_393;M;Capital Federal
+10572;Romina_393;F;Capital Federal
+10573;Ana_394;F;Buenos Aires
+10574;Juan_394;M;Santa Fe
+10575;Pedro_394;M;Buenos Aires
+10576;Romina_394;F;Capital Federal
+10577;Ana_395;F;Capital Federal
+10578;Juan_395;M;Buenos Aires
+10579;Pedro_395;M;Capital Federal
+10580;Romina_395;F;Capital Federal
+10581;Ana_396;F;Capital Federal
+10582;Juan_396;M;Capital Federal
+10583;Pedro_396;M;Buenos Aires
+10584;Romina_396;F;Capital Federal
+10585;Ana_397;F;Capital Federal
+10586;Juan_397;M;Buenos Aires
+10587;Pedro_397;M;Capital Federal
+10588;Romina_397;F;Cordoba
+10589;Ana_398;F;Capital Federal
+10590;Juan_398;M;Buenos Aires
+10591;Pedro_398;M;Buenos Aires
+10592;Romina_398;F;Capital Federal
+10593;Ana_399;F;Santa Fe
+10594;Juan_399;M;Buenos Aires
+10595;Pedro_399;M;Capital Federal
+10596;Romina_399;F;Capital Federal
+10597;Ana_400;F;Capital Federal
+10598;Juan_400;M;Cordoba
+10599;Pedro_400;M;Buenos Aires
+10600;Romina_400;F;Capital Federal
+10601;Ana_401;F;Capital Federal
+10602;Juan_401;M;Capital Federal
+10603;Pedro_401;M;Capital Federal
+10604;Romina_401;F;Buenos Aires
+10605;Ana_402;F;Capital Federal
+10606;Juan_402;M;Capital Federal
+10607;Pedro_402;M;Capital Federal
+10608;Romina_402;F;Capital Federal
+10609;Ana_403;F;Buenos Aires
+10610;Juan_403;M;Capital Federal
+10611;Pedro_403;M;Buenos Aires
+10612;Romina_403;F;Buenos Aires
+10613;Ana_404;F;Capital Federal
+10614;Juan_404;M;Capital Federal
+10615;Pedro_404;M;Capital Federal
+10616;Romina_404;F;Buenos Aires
+10617;Ana_405;F;Capital Federal
+10618;Juan_405;M;Capital Federal
+10619;Pedro_405;M;Buenos Aires
+10620;Romina_405;F;Capital Federal
+10621;Ana_406;F;Capital Federal
+10622;Juan_406;M;Buenos Aires
+10623;Pedro_406;M;Buenos Aires
+10624;Romina_406;F;Buenos Aires
+10625;Ana_407;F;Buenos Aires
+10626;Juan_407;M;Cordoba
+10627;Pedro_407;M;Buenos Aires
+10628;Romina_407;F;Buenos Aires
+10629;Ana_408;F;Cordoba
+10630;Juan_408;M;Capital Federal
+10631;Pedro_408;M;Capital Federal
+10632;Romina_408;F;Buenos Aires
+10633;Ana_409;F;Cordoba
+10634;Juan_409;M;Cordoba
+10635;Pedro_409;M;Buenos Aires
+10636;Romina_409;F;Buenos Aires
+10637;Ana_410;F;Buenos Aires
+10638;Juan_410;M;Buenos Aires
+10639;Pedro_410;M;Capital Federal
+10640;Romina_410;F;Buenos Aires
+10641;Ana_411;F;Capital Federal
+10642;Juan_411;M;Santa Fe
+10643;Pedro_411;M;Capital Federal
+10644;Romina_411;F;Capital Federal
+10645;Ana_412;F;Capital Federal
